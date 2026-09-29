@@ -11,18 +11,18 @@ Corpus: 230,196 docs. Dev set: 15 queries. Mini dev: 1 query for smoke tests.
    ```
    pip install -r requirements.txt
    ```
-3. Download the large artifacts (documents, sparse index, embeddings) — too big for GitHub. Grab from Google Drive: **<PASTE DRIVE LINK HERE>**. Unzip so you get:
+3. Download the large artifacts (documents, sparse index, embeddings). Too big for GitHub. Grab from Google Drive: **<PASTE DRIVE LINK HERE>**. Unzip so you get:
    ```
    data/documents.jsonl
    artifacts/id_to_embedding.npz
    artifacts/index_Mas_JS/           (Whoosh sparse index folder)
    ```
    If you skip this, run `python -m index.build --embed-cuda` to rebuild both from the mini set or your own corpus.
-3. If you want GPU embedding, install a CUDA torch wheel matching your driver. For CUDA 12.4 on Windows py3.13:
+4. If you want GPU embedding, install a CUDA torch wheel matching your driver. For CUDA 12.4 on Windows py3.13:
    ```
    pip install torch --index-url https://download.pytorch.org/whl/cu124
    ```
-4. Copy `.env.example` to `.env` and fill in keys:
+5. Copy `.env.example` to `.env` and fill in keys:
    - `TOGETHER_API_KEY` — chat model (required)
    - `TYPESAFE_API_KEY` — Jev reranker (required for `hybrid_jev_rerank` variant)
    - `OPENAI_API_KEY` — only needed if you embed via `--embed-api` instead of local GPU
