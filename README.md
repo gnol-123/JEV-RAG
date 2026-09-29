@@ -110,6 +110,26 @@ Wall clock, rough: 10-15 min end to end. Jev calls are parallelized 12 wide; the
 
 Mini smoke test (1 query × 6 variants): ~1 min, under $0.01.
 
+## Results (15 dev queries)
+
+Measured on the RTX 4070 setup above, one pass, no retries. Recall is against the labeled `dev_groundtruth.json` supports (100 human-picked per query). TVD is total variation distance between predicted answer distribution and ground truth (lower is better, 0 = perfect, 1 = disjoint).
+
+| Variant | Wall clock (total) | Retrieve avg | Rerank avg | Predict avg | Recall@100 | TVD |
+|---|---:|---:|---:|---:|---:|---:|
+| `sparse` | 53s | 2.2s | — | 1.3s | 0.079 | 0.258 |
+| `dense` | 52s | 2.0s | — | 1.5s | 0.086 | 0.335 |
+| `hybrid` | 61s | 2.7s | — | 1.3s | 0.084 | 0.304 |
+| `hybrid_emb_rerank` | 74s | 3.3s | 0.1s | 1.5s | 0.084 | 0.312 |
+| `hybrid_llm_rerank` | 346s | 4.1s | 17.7s | 1.2s | 0.084 | **0.252** |
+| `hybrid_jev_rerank` | 316s | 4.5s | 15.1s | 1.5s | 0.086 | 0.334 |
+
+Takeaways from this run:
+
+- Recall@100 clusters around 8-9% across all variants. The dev groundtruth marks 100 specific supports per query; the pipeline finds different but topically relevant docs, so overlap is modest. Recall would climb with more human labels or a wider top-K.
+- On the prediction task itself (TVD), `hybrid_llm_rerank` edges out the others by a small margin, with plain `sparse` a close second. Jev-reranked results were no better than raw hybrid on this 15-query set. Jev has a real speed win over LLM rerank (15.1s vs 17.7s average, 12 parallel workers vs sequential batches).
+- The three cheap variants (sparse/dense/hybrid) finish the whole dev set in under a minute each. The two LLM-based rerankers dominate wall time.
+- One query set is small. A larger set is needed to say anything definitive about Jev vs LLM rerank quality.
+
 ## Layout
 
 ```
