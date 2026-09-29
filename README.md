@@ -1,4 +1,4 @@
-# Type-Safe RAG
+# RAG Using TypeSafe AI's JEV
 
 Retrieval + prediction pipeline for a public-opinion survey task. Six retrieval variants run head-to-head, including one that reranks with TypeSafe AI's Jev (a System One classifier that returns typed decisions instead of text).
 
