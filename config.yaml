@@ -1,0 +1,14 @@
+seed: 42
+
+data:
+  documents_path: ./data/documents.jsonl
+  questions_path: ./data/dev/mini_dev.json
+  test_path:      ./data/dev/test.json
+
+index:
+  output_dir: ./artifacts/index_Mas_JS
+  emb_dir: ./artifacts
+
+run:
+  output_csv: ./results/submission.csv
+  supports_k: 100

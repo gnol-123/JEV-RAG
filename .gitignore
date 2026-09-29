@@ -1,0 +1,12 @@
+.env
+.venv
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+
+# Large artifacts hosted externally (see README)
+data/documents.jsonl
+artifacts/id_to_embedding.npz
+artifacts/index_Mas_JS/
+artifacts/embed_checkpoint.jsonl

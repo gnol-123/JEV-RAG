@@ -1,0 +1,95 @@
+{
+  "People who can fill labor shortages like agricultural workers, home health aides, or childcare workers // How much priority should be given to each of the following?": {
+    "distribution": {
+      "Top priority": 0,
+      "Some priority": 0,
+      "No priority": 0
+    },
+    "supports": []
+  },
+  "All in all, are you satisfied or dissatisfied with the way things are going in this country today?": {
+    "distribution": {
+      "Satisfied": 0,
+      "Dissatisfied": 0
+    },
+    "supports": []
+  },
+  "How would you describe your household's financial situation?": {
+    "distribution": {
+      "Live comfortably": 0,
+      "Meet my basic expenses with a little left over for extras": 0,
+      "Just meet my basic expenses": 0,
+      "Don't even have enough to meet basic expenses": 0
+    },
+    "supports": []
+  },
+  "How would you describe the community where you currently live?": {
+    "distribution": {
+      "Urban": 0,
+      "Suburban": 0,
+      "Rural": 0
+    },
+    "supports": []
+  },
+  "Compared to five years ago, how do you feel about the number of places where tipping is expected?": {
+    "distribution": {
+      "Tipping is expected in more places": 0,
+      "Tipping is expected in about the same number of places": 0,
+      "Tipping is expected in fewer places": 0
+    },
+    "supports": []
+  },
+  "How many adults, age 18 or older, currently live in your household including yourself?": {
+    "distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5 or more": 0
+    },
+    "supports": []
+  },
+  "What do you consider the most critical components to making the perfect sandwich?": {
+    "distribution": {
+      "High-quality meat": 0,
+      "Airy bread": 0,
+      "Using all the right condiments": 0,
+      "Fresh veggies": 0
+    },
+    "supports": []
+  },
+  "What are your preferred gaming genres when playing on a PC or laptop?": {
+    "distribution": {
+      "Action": 0,
+      "Action-adventure": 0,
+      "Adventure": 0,
+      "Casual": 0,
+      "MMO": 0,
+      "MMORPG": 0,
+      "MOBA": 0,
+      "Role-playing": 0,
+      "Shooters": 0,
+      "Simulation": 0,
+      "Sports": 0,
+      "Strategy": 0,
+      "Other": 0,
+      "Don’t know": 0
+    },
+    "supports": []
+  },
+  "Which statement comes closer to your own view, even if neither is exactly right?": {
+    "distribution": {
+      "It's not the government's job to protect people from themselves": 0,
+      "Sometimes laws to protect people from themselves are necessary": 0
+    },
+    "supports": []
+  },
+  "How do you usually keep track of your passwords for online accounts?": {
+    "distribution": {
+      "Write passwords down": 0,
+      "Save passwords in their browser": 0,
+      "Frequently reset passwords": 0
+    },
+    "supports": []
+  }
+}

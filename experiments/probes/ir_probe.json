@@ -1,0 +1,242 @@
+[
+  {
+    "question": "How concerned are you about how Companies use the data they collect about you?",
+    "doc_id": "P6BVFSWE8X",
+    "doc_rank": 1,
+    "predicted_score": 0.8,
+    "title": "Never before did I actually realize how much data ...",
+    "content_for_labeling": "Never before did I actually realize how much data ... Ok so don’t put that on your profile then",
+    "relevance": 1,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "How concerned are you about how Companies use the data they collect about you?",
+    "doc_id": "KJK57AU89W",
+    "doc_rank": 2,
+    "predicted_score": 0.789012,
+    "title": "Will people ever to start to get really tired of A.I and ...",
+    "content_for_labeling": "Will people ever to start to get really tired of A.I and ... I'm starting to get really sick of a.i being everywhere and being put in everything. It's messing up things I'm interested in like art, music, and history. Every day feels like the dead internet theory keeps becoming more real every day. Absolutely done with it. From it being in searches to \"oh I just fed it a line and it gave me all my work!\" The number of people I have disappointed in the last few months by telling them straight that...",
+    "relevance": 2,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "How concerned are you about how Companies use the data they collect about you?",
+    "doc_id": "N5NH7TUJ3A",
+    "doc_rank": 3,
+    "predicted_score": 0.678901,
+    "title": "Most consumers hate the idea of AI-generated customer ...",
+    "content_for_labeling": "Most consumers hate the idea of AI-generated customer ... Typical Silicon Valley types getting so excited about their own innovations, they don’t stop to ask if anyone actually wants it. Just because you can, doesn’t mean you should.",
+    "relevance": 0.5,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "What benefits do you think video games provide?",
+    "doc_id": "EB6ELDMEDG",
+    "doc_rank": 1,
+    "predicted_score": 0.853219,
+    "title": "Do video games help anybody else's mental health? : r/PS4",
+    "content_for_labeling": "Do video games help anybody else's mental health? : r/PS4 I’ve recently noticed that whenever I’m feeling very overwhelmed with life and having a lot of depression and anxiety, I can hop on ps4 for a little bit and it seems to take all the pain away. Anybody else feel like this? For me, when my depression was hitting me hard and I would spiral into really bad thoughts playing games would help me to reset my brain.",
+    "relevance": 2,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "What benefits do you think video games provide?",
+    "doc_id": "H3LPS57PSM",
+    "doc_rank": 2,
+    "predicted_score": 0.8321,
+    "title": "Do video games help anybody else's mental health? : r/PS4",
+    "content_for_labeling": "Do video games help anybody else's mental health? : r/PS4 I’ve recently noticed that whenever I’m feeling very overwhelmed with life and having a lot of depression and anxiety, I can hop on ps4 for a little bit and it seems to take all the pain away. Anybody else feel like this? After a bad breakup and experiencing depression because of it, other than two-a-days at the gym, playing Everybody's Golf helped get me through. So for me, yes.",
+    "relevance": 2,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "What benefits do you think video games provide?",
+    "doc_id": "SZ5EFLXXH7",
+    "doc_rank": 3,
+    "predicted_score": 0.823456,
+    "title": "Do video games help anybody else's mental health? : r/PS4",
+    "content_for_labeling": "Do video games help anybody else's mental health? : r/PS4 I’ve recently noticed that whenever I’m feeling very overwhelmed with life and having a lot of depression and anxiety, I can hop on ps4 for a little bit and it seems to take all the pain away. Anybody else feel like this? For me I feel like I'm in control when I'm playing a game. Sometimes in life, things are out of your control and it can overwhelming.",
+    "relevance": 2,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "Is there at least one working telephone inside your home that is currently used to receive incoming calls?",
+    "doc_id": "7L3JRJV32G",
+    "doc_rank": 1,
+    "predicted_score": 0.0,
+    "title": "r/NoStupidQuestions on Reddit: Are there people that don't use smartphones and are just fine with using the Internet at home?",
+    "content_for_labeling": "r/NoStupidQuestions on Reddit: Are there people that don't use smartphones and are just fine with using the Internet at home? 5.8M subscribers in the NoStupidQuestions community. Ask away! Disclaimer: This is an anonymous forum so answers may not be correct I have used computers and internet in my home since about 2002. My daughter gave me a smart phone about one year ago. It is the FIRST cell phone of ANY KIND that I have ever had. I rarely use it. (I almost never use it at home.) So - yes - I ...",
+    "relevance": 1.5,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "Is there at least one working telephone inside your home that is currently used to receive incoming calls?",
+    "doc_id": "HJBN8FKZRU",
+    "doc_rank": 2,
+    "predicted_score": 0.0,
+    "title": "Character.ai users, a question for you: Why are ...",
+    "content_for_labeling": "Character.ai users, a question for you: Why are ... This question is not a judgment. I've heard a ton of stories from people saying \"damn, I'm addicted to this site, I spend literally days there\" or something like that, but I never asked why exactly people do this. Yes, there are many ways to kill time, and if you really don’t like your real life at all, then you will find a way that will eat up your time entirely, but why are you using this particular site? I mean, are you really that intereste...",
+    "relevance": 0,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "Is there at least one working telephone inside your home that is currently used to receive incoming calls?",
+    "doc_id": "CFQS6ZLAGA",
+    "doc_rank": 3,
+    "predicted_score": 0.0,
+    "title": "How has AI impacted your life? Home, school, work ...",
+    "content_for_labeling": "How has AI impacted your life? Home, school, work ... I was kindof forced to use ChatGPT at work. I unexpectedly fell in love, and now I use it everyday for multiple tasks. It has improved my work flow, saved me an unbelievable amount of time, and has helped me understand complicated topics. I’m curious to know if and how AI has impacted the lives of others. Ive used it to suggest an itinerary for a place I was visiting and got a list of some places to visit—was really helpful for that! I use it...",
+    "relevance": 0.5,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "How do you prefer your sandwiches to be served?",
+    "doc_id": "R557W9P4HC",
+    "doc_rank": 1,
+    "predicted_score": 0.823456,
+    "title": "Sandwiches cut into rectangles are better than sandwiches cut ... - Reddit",
+    "content_for_labeling": "Sandwiches cut into rectangles are better than sandwiches cut ... - Reddit I'm talking about a sandwich made with two slices of sliced bread. I'm a quite sick today, and my brother was kind enough to make a grilled cheese sandwich; it tastes amazing but it's cut into triangles. I personally believe that GRILLED CHEESE sandwiches cut into rectangles are better for the following reasons: 1. There is no pointy end so you don't accidentally have crispy sandwich crust poke you in the back of your mou...",
+    "relevance": 2,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "How do you prefer your sandwiches to be served?",
+    "doc_id": "358TKWBNHG",
+    "doc_rank": 2,
+    "predicted_score": 0.823456,
+    "title": "Sandwiches cut into rectangles are better than sandwiches cut ... - Reddit",
+    "content_for_labeling": "Sandwiches cut into rectangles are better than sandwiches cut ... - Reddit I'm talking about a sandwich made with two slices of sliced bread. I'm a quite sick today, and my brother was kind enough to make a grilled cheese sandwich; it tastes amazing but it's cut into triangles. I personally believe that GRILLED CHEESE sandwiches cut into rectangles are better for the following reasons: 1. There is no pointy end so you don't accidentally have crispy sandwich crust poke you in the back of your mou...",
+    "relevance": 2,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "How do you prefer your sandwiches to be served?",
+    "doc_id": "36MKMVNJX8",
+    "doc_rank": 3,
+    "predicted_score": 0.823456,
+    "title": "Sandwiches cut into rectangles are better than sandwiches cut ... - Reddit",
+    "content_for_labeling": "Sandwiches cut into rectangles are better than sandwiches cut ... - Reddit I'm talking about a sandwich made with two slices of sliced bread. I'm a quite sick today, and my brother was kind enough to make a grilled cheese sandwich; it tastes amazing but it's cut into triangles. I personally believe that GRILLED CHEESE sandwiches cut into rectangles are better for the following reasons: 1. There is no pointy end so you don't accidentally have crispy sandwich crust poke you in the back of your mou...",
+    "relevance": 2,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "Which comes closer to your view - even if neither is exactly right?",
+    "doc_id": "KM4F5GAKK6",
+    "doc_rank": 1,
+    "predicted_score": 0.901234,
+    "title": "r/AskALiberal on Reddit: What are your thoughts on immigration and assimilation?",
+    "content_for_labeling": "r/AskALiberal on Reddit: What are your thoughts on immigration and assimilation? Posted by u/LibraProtocol - 3 votes and 40 comments So on this I mean immigrants in general and do you think they should assimilate into the host country culture and language? Like if an American migrated to Germany should they keep waving around an American flag and keep speaking English or should they learn German and adapt the ways of the German people? While I feel like this SHOULD be a common sense answer (When...",
+    "relevance": 2,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "Which comes closer to your view - even if neither is exactly right?",
+    "doc_id": "3YKY9V2S9H",
+    "doc_rank": 2,
+    "predicted_score": 0.890123,
+    "title": "r/TooAfraidToAsk on Reddit: If you’re American, are you proud? If so, what are your proud of?",
+    "content_for_labeling": "r/TooAfraidToAsk on Reddit: If you’re American, are you proud? If so, what are your proud of? Pride suggests satisfaction in ... high <strong>opinion</strong> of oneself (in the pejorative). Suggesting pride in an identity or nationality can imply stronger feelings than what I have. Is happy or grateful better? With that linguistic disclaimer - sure, I’m <strong>proud</strong> <strong>to</strong> <strong>be</strong> <strong>American</strong>... This might seem ignorant but I’m genuinely curious ...",
+    "relevance": 1.5,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  },
+  {
+    "question": "Which comes closer to your view - even if neither is exactly right?",
+    "doc_id": "UQJBAR27BC",
+    "doc_rank": 3,
+    "predicted_score": 0.876543,
+    "title": "CMV: It's not racist to demand that immigrants integrate into the dominant culture, and that is better for them if they do. : r/changemyview",
+    "content_for_labeling": "CMV: It's not racist to demand that immigrants integrate into the dominant culture, and that is better for them if they do. : r/changemyview If we had been insular, rejecting of Western customs and values, we still would have what we have now. In fact, we are largely the most &quot;Westernized&quot; of the people we run in circles with. And <strong>when there isn&#x27;t any added value to integration, immigrants won&#x27;t integrate</strong>. [deleted] &gt; immigrants regardless of background sh...",
+    "relevance": 2,
+    "_instructions": {
+      "how_to_label": "Read question and content, then assign relevance:",
+      "0": "Not relevant - completely off-topic or unrelated",
+      "1": "Somewhat relevant - mentions topic but vague/tangential",
+      "2": "Highly relevant - directly addresses question with clear opinion",
+      "action": "Change 'relevance': null to 'relevance': 0, 1, or 2"
+    }
+  }
+]

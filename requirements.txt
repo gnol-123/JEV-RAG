@@ -1,0 +1,15 @@
+numpy
+PyYAML
+tqdm
+retry
+beautifulsoup4
+ftfy
+scikit-learn
+scipy
+Whoosh
+together
+openai
+sentence-transformers
+torch
+nltk
+typesafe-sdk
